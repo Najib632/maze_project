@@ -1,1 +1,4 @@
+theme: minima
 title: "Maze Project"
+author: "Najib Muhammad"
+Description: "Have fun with SDL2 and raycast"
