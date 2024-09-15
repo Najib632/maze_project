@@ -10,7 +10,7 @@ You have a link to a very good and very long tutorial about raycasting in the `T
 
 Please have a lot of fun doing this project !
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/8970c3ee63d8149b93e30229276c3f7580ac9447.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=48a39319f7429b99754ad48121f62328efab6d868f6053e77401011d9e0d8840)
+![]()
 
 ## Requirements
 
@@ -59,11 +59,11 @@ In this first part, you’ll have to:
 
 Example:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e897a79ffe0d990856e021f4e1e6cdbb0ff5395.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=112227389a624df08e627b9b979809b8107027a0e8dc8fa8aea0e4506a5a485f)
+![]()
 
 In the following image, the camera is the red square, and the visible area is painted in green:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f280499b4f118ae102c62251b87dfd6aff737795.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8624b4f901bce78d4f240783ada6cac262bca6da881179e92d6b4967975eb285)
+![]()
 
 ### 1\. Orientation
 
@@ -73,7 +73,7 @@ In this part, you must draw a different color depending on the orientation of th
 
 Example:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/bc20224777aa01d6b9b6f6944421beb1850fecb6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3ecacc0a11f22e0a3333e1bda5276bd60afc61b7b58f6d21223f96525d72ca44)
+![]()
 
 ### 2\. Rotation
 
@@ -84,7 +84,7 @@ You must provide a way to rotate the camera during the execution.
 
 Example:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e322c5b857225f95fcf63795f5d68f954ab4474.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d3b224d8e93402ed9cdf78b115a394354ae74abd787004105dd483a3d53e95c3)
+![]()
 
 ### 3\. Move
 
@@ -94,9 +94,9 @@ You must provide a way to move the camera during the execution.
 
 Example:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/410f88f83b1de01b8fc2349d6c89a2743ba933a6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0dfce759a320750fd5764d444f35717e822da14c9d978ae31e9b8d187af5c286)
+![]()
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/491510b693b38cf88f0d6e8917f6dc467e507635.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7b6b4c091ee5f830d89db3fb5df1653df9d3abfc0bbf15fe92d9ca75f1ae5de9)
+![]()
 
 ### 4\. Ouch !
 
@@ -137,7 +137,7 @@ In this part you have to add textures on your walls !
 
 Example
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c6106183de275a10df8994437f710118ee59d654.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1b8398dbaca5647d8be2e737b38e1c0215677ddc03f61b5faf37a40fb6d2551b)
+![]()
 
 ### 9\. Multi task !
 
@@ -155,9 +155,9 @@ In this part you have to add textures on the ground and/or on the ceiling !
 
 Example
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/87792f3b4d787bf589befb8611de67a4f04d44c0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3611e56972a0d4866b7de3029c8e76b4c98647aa4e1b77adb5a24df30896093b)
+![]()
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/bc961dcd5fb040c7ba1c3d7f5c640acdc2b04a34.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5ffa592f377c2e2c02c684a566c505a669328884dace25f890f7deaa04c730fe)
+![]()
 
 ### 11\. Weapons
 
@@ -165,7 +165,7 @@ Add weapons textures !
 
 Example
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/9e1e52c573a2cfb6639b0d364d0ab59ad35ab242.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fb0d2602d4441612bc9041ca27708b81e6dbb11ce105d8e311a521d4abb61c66)
+![]()
 
 ### 12\. Enemies
 
@@ -173,7 +173,7 @@ Add some enemies !
 
 Example from the game Wolfenstein 3D:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d24c48be8c7ee901d251f35cad5673705d4dcc70.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2293551fe7d6582ce010d09f06b189250f310c3ff5eca0a30148c3707bd7f278)
+![]()
 
 ### 13\. Make it rain
 
