@@ -1,0 +1,16 @@
+<!-- docs/_layouts/custom.html -->
+---
+layout: default
+---
+
+<nav>
+  <ul>
+    {% for item in site.navigation %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<main>
+  {{ content }}
+</main>
