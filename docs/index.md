@@ -1,4 +1,5 @@
 ---
+layout: custom
 title: "Welcome to the Maze Project"
 ---
 ## Introduction
