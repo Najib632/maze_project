@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Maze Project"
 ---
-## Background Context
+## Introduction
 
 The goal of this project is to create a game in 3D using raycasting !
 
@@ -11,7 +11,7 @@ You have a link to a very good and very long tutorial about raycasting in the `T
 
 Please have a lot of fun doing this project !
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/8970c3ee63d8149b93e30229276c3f7580ac9447.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T183200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=48a39319f7429b99754ad48121f62328efab6d868f6053e77401011d9e0d8840)
+![]()
 
 ## Requirements
 
@@ -35,3 +35,13 @@ Please have a lot of fun doing this project !
 ### Tips and links
 
 -   [SDL2 - Get started.pdf](https://intranet.alxswe.com/rltoken/pMnvq93vpbAh9q6inKQMuQ "SDL2 - Get started.pdf")
+-   [SDL2 tutorials](https://intranet.alxswe.com/rltoken/oona0Kd1yVyjHQGoJaV_aw "SDL2 tutorials")
+-   Be careful with tutorials/help online: We are using `SDL2`, and not `SDL-1.2` !
+-   [RAYCASTING !!!](https://intranet.alxswe.com/rltoken/vRw7CP21mUmKFDdrQjQ2GA "RAYCASTING !!!")
+-   [Alternative Raycasting Tutorial](https://intranet.alxswe.com/rltoken/dnQwzgrDUEhFXIF8sNivkg "Alternative Raycasting Tutorial")
+
+### Important
+
+-   Don’t forget to **install SDL2** [SDL2 tutorials](https://intranet.alxswe.com/rltoken/oona0Kd1yVyjHQGoJaV_aw "SDL2 tutorials")
+-   There are no forbidden functions for this project. You are allowed to use any system call and/or standard library function.
+-   You are allowed to use [all the functions provided by SDL2](https://intranet.alxswe.com/rltoken/bmGynXNHzUObCE08XuoCQg "all the functions provided by SDL2")
