@@ -1,5 +1,5 @@
 ---
-title: "Maze Project"
+title: "Welcome to the Maze Project"
 ---
 ## Background Context
 
