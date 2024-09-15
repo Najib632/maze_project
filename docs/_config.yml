@@ -1,4 +1,9 @@
 theme: minima
 title: "Maze Project"
+navigation:
+  - title: Features
+    url: /docs/features
+  - title: About
+    url: /docs/about
 author: "Najib Muhammad"
 Description: "Have fun with SDL2 and raycast"
