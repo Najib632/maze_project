@@ -1,4 +1,8 @@
-## Features
+---
+layout: page
+title: Features
+permalink: /features/
+---
 
 ### 0\. Walls !
 
@@ -12,9 +16,9 @@ In this first part, you’ll have to:
 
 Example:
 
-![]()
+![](/images/move.png)
 
-In the following image, the camera is the red square, and the visible area is painted in green:
+In the following images, the camera is the red square, and the visible area is painted in green:
 
 ![]()
 
@@ -26,7 +30,7 @@ In this part, you must draw a different color depending on the orientation of th
 
 Example:
 
-![]()
+![](/images/orientation.gif)
 
 ### 2\. Rotation
 
@@ -37,7 +41,7 @@ You must provide a way to rotate the camera during the execution.
 
 Example:
 
-![]()
+![](/images/rotation.gif)
 
 ### 3\. Move
 
@@ -47,9 +51,9 @@ You must provide a way to move the camera during the execution.
 
 Example:
 
-![]()
+![](/images/move1.gif)
 
-![]()
+![](/images/move2.gif)
 
 ### 4\. Ouch !
 
@@ -90,7 +94,7 @@ In this part you have to add textures on your walls !
 
 Example
 
-![]()
+![](/images/wall_texutres.gif)
 
 ### 9\. Multi task !
 
@@ -108,9 +112,9 @@ In this part you have to add textures on the ground and/or on the ceiling !
 
 Example
 
-![]()
+![](/images/ground_textures.png)
 
-![]()
+![](/images/ground_textures.gif)
 
 ### 11\. Weapons
 
@@ -118,7 +122,7 @@ Add weapons textures !
 
 Example
 
-![]()
+![](/images/weapons.gif)
 
 ### 12\. Enemies
 
@@ -126,7 +130,7 @@ Add some enemies !
 
 Example from the game Wolfenstein 3D:
 
-![]()
+![](/images/enemies.jpg)
 
 ### 13\. Make it rain
 

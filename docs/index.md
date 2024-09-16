@@ -1,6 +1,6 @@
 ---
-layout: custom
-title: "Welcome to the Maze Project"
+layout: home
+title: Welcome to the Maze Project
 ---
 ## Introduction
 
@@ -12,7 +12,7 @@ You have a link to a very good and very long tutorial about raycasting in the `T
 
 Please have a lot of fun doing this project !
 
-![]()
+![](/image/back_ground_context.gif)
 
 ## Requirements
 
