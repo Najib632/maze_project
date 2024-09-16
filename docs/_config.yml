@@ -1,9 +1,20 @@
+title: Maze Project
+author:
+  name: Najib Muhammad
+  email: najibm38@gmail.com
+
+Description: >
+  An maze game using SDL2 and raycast, enjoy!
+
 theme: minima
-title: "Maze Project"
-navigation:
-  - title: Features
-    url: /docs/features
-  - title: About
-    url: /docs/about
-author: "Najib Muhammad"
-Description: "Have fun with SDL2 and raycast"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - features.md
+  - about.md
+
+minima:
+  skin: classic
