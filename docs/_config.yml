@@ -1,7 +1,6 @@
 title: Maze Project
-author:
-  name: Najib Muhammad
-  email: "najibm38@gmail.com"
+author: Najib Muhammad
+email: najibm38@gmail.com
 
 Description: >
   An maze game using SDL2 and raycast, enjoy!
@@ -17,7 +16,7 @@ header_pages:
   - about.md
 
 minima:
-  skin: classic
+  skin: dark
 
 
 # Generate social links in footer.
