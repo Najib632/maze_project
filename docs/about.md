@@ -12,4 +12,5 @@ So I decided to take on the ALX SE maze project to challenge my self with someth
 
 ### Get in touch with me:
 [GitHub](https://github.com/Najib632)
-[twitter](https://twitter.com/najibu_)
+[X](https://x.com/najibu_m)
+[LinkedIn](https://www.linkedin.com/in/najib-muhammad-388928120/)
